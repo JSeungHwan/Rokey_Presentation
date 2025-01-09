@@ -28,3 +28,11 @@
 2. **Collaboration-3**
    - 주요 내용: RViz2와 Gazebo를 활용한 다중 로봇 자율 협력 시스템 시뮬레이션
    - Git 파일 경로: https://github.com/yms0606/Doosan_Robotics_m0609_study
+
+## 👨‍💻 Contributors
+A big thank you to everyone who made this project possible! 🎉  
+Click on the names below to view their GitHub profiles:
+
+- [**MINSIK YOON**](https://github.com/yms0606)   
+- [**junha JANG**](https://github.com/zzangzzun)  
+- [**seunghwan JEONG**](https://github.com/JSeungHwan)
